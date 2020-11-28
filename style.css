@@ -1,0 +1,26 @@
+
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body {
+    background: url('https://uploads.spiritfanfiction.com/fanfics/historias/201802/konoha-12234274-280220181747.png') no-repeat center center / cover ;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+#itachi {
+    position: absolute;
+    display: flex;
+    align-items: flex-end;
+    height: 100vh;
+
+}
+
+#itachi img {
+    height: 450px;
+    width: 350px;
+}
